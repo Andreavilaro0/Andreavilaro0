@@ -71,4 +71,4 @@ management system for the terminal in C++17: items, users and loans, saved in CS
 
 ### Contact
 
-andrea15one@icloud.com
+[LinkedIn](https://www.linkedin.com/in/andreaavila-fullstack/) · andrea15one@icloud.com
